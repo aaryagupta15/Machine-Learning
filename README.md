@@ -4,7 +4,7 @@ This repository contains my end-to-end Machine Learning projects. Each project c
 
 ## Projects Included:
 1. **Customer Churn Prediction** - Logistic Regression model to predict which customers are likely to stop using a product or service.
-2. **Bike Rental Demand Forecasting** - Linear Regression model to predict bike rental demand based on historical usage and weather data. (Currently in progress)
+2. **Car Prediction** - Linear Regression model to predict car selling price based on different factors like Present Price, KMS Driven, Fuel Type, Seller Type, etc.
 
 ## Tools & Technologies:
 - Python
